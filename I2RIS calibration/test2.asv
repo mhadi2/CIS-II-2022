@@ -1,0 +1,4 @@
+encoder=readtable('C:\Mojtaba\JHU\Snake_Calibration\snake_position_code_microscope_filtering\Encoder_Counts.xlsx');
+Encoder=encoder.Var1; 
+
+Encoder_counts = interp1()
